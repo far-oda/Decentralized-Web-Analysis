@@ -1,6 +1,5 @@
 # Decentralized-Web-Analysis
 
-The first folder IP-Catcher has the go code and its files that finds malicious IPFS IPs
 The first folder **IP-Catcher** has the golang code and its files:
 
 `bad_ips.txt` includes a list of malicious IPs identified by zenbox from virustotal when scanning various samples of a Malware botnet called **Interplanetary Storm (IPStorm)**.
@@ -13,7 +12,7 @@ The first folder **IP-Catcher** has the golang code and its files:
 `Result.docx` Includes the hash of the samples which are related to the IPs and the results of running the Golang Code.
 
 --------------
-The Second folder Virustotal Analysis has the results of running the malware samples of IPStorm and the analysis of the sandbox services that it provides
+The Second folder **Virustotal Analysis** has the results of running the malware samples of IPStorm and the analysis of the sandbox services that it provides
 Some of the results are in htm format which saved the entire page as one file to be able to access all aspects of the analysis and some are saved as pdf.
 
 **The names are the SHA256 Hash of each sample**
