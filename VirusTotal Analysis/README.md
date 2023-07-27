@@ -10,7 +10,3 @@ For linux: Zenbox
 For windows: CAPE Sandbox, Dr.Web vxCube, VirusTotal Jujubox, and Zenbox
 
 --------------
-
-In addition to this I've run all the windows samples in a website called [any.run](https://any.run)
-
-It is placed in the same way as the other results, in the folder of each sample.
